@@ -37,7 +37,7 @@ OUTPUT: values provided by the c++ program to the simulator
 
 ## Results
 
-<img src="./result_dataset1.png" width="350" height="250">    <img src="./result_dataset2.png" width="350" height="250"> 
+<img src="./result_dataset1.png" width="350" height="250">           <img src="./result_dataset2.png" width="350" height="250"> 
 
 
 Satisfactory NIS plots of lidar and radar measurements obtained after tuning process measurement noise parameters.
