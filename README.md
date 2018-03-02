@@ -46,5 +46,5 @@ Satisfactory NIS plots of lidar and radar measurements obtained after tuning pro
 
 <img src="./Laser_nis.jpg" width="450" height="350">     
 
-<img src="./NIS_radar" width="450" height="350"> 
+<img src="./NIS_radar.jpg" width="450" height="350"> 
 
