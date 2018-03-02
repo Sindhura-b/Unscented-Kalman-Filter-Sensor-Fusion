@@ -37,9 +37,7 @@ OUTPUT: values provided by the c++ program to the simulator
 
 ## Results
 
-![alt text][image1]
-
-![alt text][image2]
+![alt text][image1] ![alt text][image2]
 
 Satisfactory NIS plots of lidar and radar measurements obtained after tuning process measurement noise parameters.
 
