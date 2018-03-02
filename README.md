@@ -3,10 +3,11 @@
 In this project unscenteded kalman filter has been utilized to estimate the state of a moving object of interest with noisy lidar and radar measurements. The developed algorithm is tested on two different different datasets provided in the Udacity's Simulator and experimented till the RMSE values that determine the accuracy of algorithm are below the specified threshold. The values of process covariance matrix are tuned using Normalized Innovation Squared (NIS) consistency check, which is the difference between actual and predicted measurements and follows chi squared distribution.
 
 [//]: # (Image References)
-[image1]: ../result_dataset1.png
-[image2]: ../result_dataset2.png
-[image3]: ../Laser_nis.jpg
-[image4]: ../NIS_radar.jpg
+[image1]: ./result_dataset1.png
+[image2]: ./result_dataset2.png
+[image3]: ./Laser_nis.jpg
+[image4]: ./NIS_radar.jpg
+
 ---
 
 ## Instructions to run
